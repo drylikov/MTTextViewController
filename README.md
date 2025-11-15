@@ -62,6 +62,8 @@ iOS 7 or greater.
 
 
 
+
+
 ## Installation
 
 MTTextViewController is available through [CocoaPods](http://cocoapods.org). To install
